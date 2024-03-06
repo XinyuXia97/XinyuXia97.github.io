@@ -33,11 +33,9 @@ I'm interested in <strong>information retrieval, hashing and multimodal learning
 <div class='paper-box-text' markdown="1">
 
 [When CLIP meets cross-modal hashing retrieval: A new strong baseline](https://www.sciencedirect.com/science/article/pii/S1566253523002841)
-
 **Xinyu Xia**, Guohua Dong, Fengling Li, Lei Zhu, Xiaomin Ying
 
-<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+[![paper](https://img.shields.io/badge/Paper-d.svg)](https://www.sciencedirect.com/science/article/pii/S1566253523002841) [![](https://img.shields.io/github/stars/ictnlp/TruthX?style=social&label=Code+Stars)](https://github.com/XinyuXia97/UCMFH)
 </div>
 </div>
 
