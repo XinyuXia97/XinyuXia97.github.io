@@ -50,12 +50,11 @@ I'm interested in <strong>information retrieval, hashing and multimodal learning
 # 📖 Educations
 <!-- - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-- *2022.10 - 2024.06*, Internship at Beijing Institute of Basic Medical Sciences.
-- *2021.09-2024.06*, M.S. in School of information Science and Engineering, Shandong Normal University.
+- *2021.09 - 2024.06*, M.S. in School of information Science and Engineering, Shandong Normal University.
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-<!-- # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+# 💻 Internships
+- *2022.10 - 2024.06*,  Beijing Institute of Basic Medical Sciences
