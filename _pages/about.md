@@ -36,7 +36,7 @@ I'm interested in <strong>information retrieval, hashing and multimodal learning
 
 **Xinyu Xia**, Guohua Dong, Fengling Li, Lei Zhu, Xiaomin Ying
 
-[![paper](https://img.shields.io/badge/Paper-d.svg)](https://www.sciencedirect.com/science/article/pii/S1566253523002841) [![](https://github.com/XinyuXia97/UCMFH?style=social&label=Code+Stars)](https://github.com/XinyuXia97/UCMFH)
+[![paper](https://img.shields.io/badge/Paper-d.svg)](https://www.sciencedirect.com/science/article/pii/S1566253523002841) [![](https://img.shields.io/github/stars/XinyuXia97/UCMFH?style=social&label=Code+Stars)](https://github.com/XinyuXia97/UCMFH)
 
 IF: 18.6
 </div>
