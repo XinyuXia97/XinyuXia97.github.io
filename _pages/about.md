@@ -44,7 +44,7 @@ I'm interested in <strong>Information Retrieval, Hashing and Multimodal Learning
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2023</div><img src='images/Prototypical-cro-att.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Typical Concept Driven Modality Missing Deep Cross-Modal Retrieval]
+Typical Concept Driven Modality Missing Deep Cross-Modal Retrieval
 
 **Xinyu Xia**, Lei Zhu, Xiushan Nie, Guohua Dong, Huaxiang Zhang.
 
