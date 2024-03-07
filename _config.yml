@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xinyu Xia"
-description              : "Focusing on Information Retrieval, Hashing, and Multimodal Learning"
+description              : #"Focusing on Information Retrieval, Hashing, and Multimodal Learning"
 repository               : "XinyuXia97/XinyuXia97.github.io"
 google_scholar_stats_use_cdn : true
 
