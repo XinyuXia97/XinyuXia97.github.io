@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Xinyu Xia(夏鑫雨) is a first-year Ph.D candidate in School of Artificial Intelligence, Jilin University, advised by Xun Gong(宫洵). He obtained his M.S. degree in June 2024, under the supervision of Prof. Lei Zhu at Big Media Computing Laboratory, School of Information Science and Engineering, Shandong Normal University (SDNU).
+<strong>Xinyu Xia(夏鑫雨)</strong> is a first-year Ph.D candidate in School of Artificial Intelligence, Jilin University, advised by Xun Gong(宫洵). He obtained his M.S. degree in June 2024, under the supervision of Prof. Lei Zhu at Big Media Computing Laboratory, School of Information Science and Engineering, Shandong Normal University (SDNU).
 
 His research interests include <strong>Information Retrieval, Hashing and Multimodal Learning</strong>.
  <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
