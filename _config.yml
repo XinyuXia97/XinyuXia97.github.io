@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Xinyu Xia"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : " " #"Lorem ipsum College"
+  bio              : "Ph.D. Candidate at the School of Artificial Intelligence, Jilin University."
   location         : "Beijing, China"
   employer         :
   pubmed           : 
