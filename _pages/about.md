@@ -31,7 +31,7 @@ His research interests include <strong>Autonomous Driving, Information Retrieval
 
 # 📝 Publications 
 <!-- 第三篇 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Jcad 2024</div><img src='images/sera.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src='images/sera.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [From Failures to Fixes: LLM-Driven Scenario Repair for Self-Evolving Autonomous Driving](https://arxiv.org/abs/2505.22067)
