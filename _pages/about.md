@@ -17,18 +17,33 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<strong>Xinyu Xia(夏鑫雨)</strong> is a first-year Ph.D. candidate in School of Artificial Intelligence, Jilin University, advised by Prof. [Xun Gong(宫洵)](https://sites.google.com/view/xungong-jlu-ai/home) and Prof. [Xingjun Ma](http://xingjunma.com/). He obtained his M.S. degree in June 2024, under the supervision of Prof. [Lei Zhu](https://scholar.google.com.hk/citations?hl=zh-CN&user=gw4ISc4AAAAJ) at Big Media Computing Laboratory.
+<strong>Xinyu Xia(夏鑫雨)</strong> is a first-year Ph.D. candidate in School of Artificial Intelligence, Jilin University, advised by Prof. [Xun Gong](https://sites.google.com/view/xungong-jlu-ai/home) and Prof. [Xingjun Ma](http://xingjunma.com/). He obtained his M.S. degree in June 2024, under the supervision of Prof. [Lei Zhu](https://scholar.google.com.hk/citations?hl=zh-CN&user=gw4ISc4AAAAJ) at Big Media Computing Laboratory.
 
 His research interests include <strong>Autonomous Driving, Information Retrieval and Multimodal Learning</strong>.
  <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
 # 🔥 News
+- *2025.07*: &nbsp;🎉🎉 One paper is accepted by ACM MM 2025!
 - *2024.11*: &nbsp;🎉🎉 One paper is accepted by Journal of Computer-Aided Design &amp; Computer Graphics!
 - *2023.12*: &nbsp;🎉🎉 One paper is accepted by Information Fusion!
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
+<!-- 第三篇 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Jcad 2024</div><img src='images/sera.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[From Failures to Fixes: LLM-Driven Scenario Repair for Self-Evolving Autonomous Driving](https://arxiv.org/abs/2505.22067)
+
+**Xinyu Xia**, Xingjun Ma, Yunfeng Hu, Ting Qu, Hong Chen, Xun Gong
+
+[![paper](https://img.shields.io/badge/Paper-d.svg)](https://arxiv.org/abs/2505.22067)
+[![](https://img.shields.io/github/stars/XinyuXia97/SERA?style=social&label=Code+Stars)](https://github.com/XinyuXia97/SERA) 
+
+</div>
+</div>
+
 <!-- 第一篇 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Information Fusion 2023</div><img src='images/UCMH.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
