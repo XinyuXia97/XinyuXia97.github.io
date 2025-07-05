@@ -38,7 +38,7 @@ His research interests include <strong>Autonomous Driving, Information Retrieval
 
 **Xinyu Xia**, Xingjun Ma, Yunfeng Hu, Ting Qu, Hong Chen, Xun Gong
 
-[![paper](https://img.shields.io/badge/Paper-d.svg)](https://arxiv.org/abs/2505.22067)
+[![paper](https://img.shields.io/badge/Paper-d.svg)](https://arxiv.org/abs/2505.22067) [![homepage](https://img.shields.io/badge/Homepage-ff69b4.svg)](https://xinyuxia97.github.io/SERA/) 
 [![](https://img.shields.io/github/stars/XinyuXia97/SERA?style=social&label=Code+Stars)](https://github.com/XinyuXia97/SERA) 
 
 </div>
