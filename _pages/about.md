@@ -30,7 +30,7 @@ His research interests include <strong>Autonomous Driving, Information Retrieval
 - *2023.12*: &nbsp;🎉🎉 One paper is accepted by Information Fusion!
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-# 📝 Publications 
+# 📝 Selected Publications 
 <!-- 第三篇 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src='images/sera.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
