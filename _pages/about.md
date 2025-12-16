@@ -24,6 +24,7 @@ His research interests include <strong>Autonomous Driving, Information Retrieval
 
 
 # 🔥 News
+- *2025.12*: &nbsp;🎉🎉 One paper is accepted by IEEE VTM! 
 - *2025.07*: &nbsp;🎉🎉 One paper is accepted by ACM MM 2025!
 - *2024.11*: &nbsp;🎉🎉 One paper is accepted by Journal of Computer-Aided Design &amp; Computer Graphics!
 - *2023.12*: &nbsp;🎉🎉 One paper is accepted by Information Fusion!
