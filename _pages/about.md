@@ -31,6 +31,20 @@ His research interests include <strong>Autonomous Driving, Information Retrieval
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Selected Publications 
+
+<!-- 第四篇 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/beyond.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Beyond Scenario Similarity: Learning Behavior-Aware Representations for Large-Scale Autonomous Driving Scenario Retrieval]()
+
+**Xinyu Xia**, Yiqi Wang, Ting Qu, Yunfeng Hu, Hong Chen, Xun Gong
+
+[![paper](https://img.shields.io/badge/Paper-d.svg)](https://arxiv.org/abs/2505.22067) [![homepage](https://img.shields.io/badge/Homepage-ff69b4.svg)](https://xinyuxia97.github.io/SERA/) 
+[![](https://img.shields.io/github/stars/XinyuXia97/SERA?style=social&label=Code+Stars)](https://github.com/XinyuXia97/SERA) 
+
+</div>
+
 <!-- 第三篇 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src='images/sera.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
