@@ -44,6 +44,7 @@ His research interests include <strong>Autonomous Driving, Information Retrieval
 [![](https://img.shields.io/github/stars/XinyuXia97/SERA?style=social&label=Code+Stars)](https://github.com/XinyuXia97/SERA) 
 
 </div>
+</div>
 
 <!-- 第三篇 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src='images/sera.png' alt="sym" width="100%"></div></div>
