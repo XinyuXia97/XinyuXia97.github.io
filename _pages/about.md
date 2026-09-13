@@ -32,6 +32,22 @@ His research interests include <strong>Autonomous Driving, Information Retrieval
 
 # 📝 Selected Publications 
 
+
+<!-- 第五篇 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/fd-set.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Failure-Driven Scenario Evolution for Self-Evolving Safety Evaluation in Mixed-Traffic Autonomous Driving]()
+
+**Xinyu Xia**, Zifei Nie, Xingjun Ma, Ting Qu, Yunfeng Hu, Hong Chen, Xun Gong
+
+[![paper](https://img.shields.io/badge/Paper-d.svg)](https://arxiv.org/abs/2505.22067) [![homepage](https://img.shields.io/badge/Homepage-ff69b4.svg)](https://xinyuxia97.github.io/SERA/) 
+[![](https://img.shields.io/github/stars/XinyuXia97/SERA?style=social&label=Code+Stars)](https://github.com/XinyuXia97/SERA) 
+
+</div>
+</div>
+
+
 <!-- 第四篇 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/beyond.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
