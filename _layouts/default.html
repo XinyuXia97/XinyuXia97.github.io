@@ -16,11 +16,11 @@ layout: compress
     {% include masthead.html %}
 
     <main id="main">
-      {% include sidebar.html %}
+      {% if page.author_profile %}{% include author-profile.html %}{% endif %}
 
-      <article class="page" itemscope itemtype="https://schema.org/Person">
+      <article class="page">
         <div class="page__inner-wrap">
-          <div class="page__content" itemprop="description">
+          <div class="page__content">
             {{ content }}
           </div>
         </div>

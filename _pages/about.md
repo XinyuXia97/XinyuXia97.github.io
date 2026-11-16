@@ -8,11 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-<h1 id="about-me">Xinyu Xia <span class="name-native">夏鑫雨</span></h1>
+## About {#about}
 
 I am a third-year Ph.D. candidate at the School of Artificial Intelligence, Jilin University, advised by Prof. [Xun Gong](https://sites.google.com/view/xungong-jlu-ai/home) and Prof. [Xingjun Ma](http://xingjunma.com/). I received my M.S. degree in June 2024 under the supervision of Prof. [Lei Zhu](https://scholar.google.com.hk/citations?hl=zh-CN&user=gw4ISc4AAAAJ) at the Big Media Computing Laboratory.
-
-My research interests include **autonomous driving, information retrieval, and multimodal learning**.
 
 ## News {#news}
 
@@ -24,7 +22,7 @@ My research interests include **autonomous driving, information retrieval, and m
 ## Selected Publications {#publications}
 
 <div class="paper-box">
-  <div class="paper-box-image"><span class="badge">Under Review</span><img src="{{ '/images/fd-set.webp' | relative_url }}" alt="Failure-driven scenario evolution for autonomous driving safety evaluation" width="900" height="450" loading="lazy" decoding="async"></div>
+  <div class="paper-box-image"><span class="badge badge--review">Under Review</span><img src="{{ '/images/fd-set.webp' | relative_url }}" alt="Failure-driven scenario evolution for autonomous driving safety evaluation" width="900" height="450" loading="lazy" decoding="async"></div>
   <div class="paper-box-text" markdown="1">
 ### Failure-Driven Scenario Evolution for Self-Evolving Safety Evaluation in Mixed-Traffic Autonomous Driving
 
@@ -33,7 +31,7 @@ My research interests include **autonomous driving, information retrieval, and m
 </div>
 
 <div class="paper-box">
-  <div class="paper-box-image"><span class="badge">Under Review</span><img src="{{ '/images/beyond.webp' | relative_url }}" alt="Behavior-aware representations for autonomous driving scenario retrieval" width="900" height="234" loading="lazy" decoding="async"></div>
+  <div class="paper-box-image"><span class="badge badge--review">Under Review</span><img src="{{ '/images/beyond.webp' | relative_url }}" alt="Behavior-aware representations for autonomous driving scenario retrieval" width="900" height="234" loading="lazy" decoding="async"></div>
   <div class="paper-box-text" markdown="1">
 ### Beyond Scenario Similarity: Learning Behavior-Aware Representations for Large-Scale Autonomous Driving Scenario Retrieval
 
@@ -48,7 +46,7 @@ My research interests include **autonomous driving, information retrieval, and m
 
 **Xinyu Xia**, Xingjun Ma, Yunfeng Hu, Ting Qu, Hong Chen, Xun Gong
 
-[Paper](https://arxiv.org/abs/2505.22067) · [Project](https://xinyuxia97.github.io/SERA/) · [Code](https://github.com/XinyuXia97/SERA)
+<div class="paper-links"><a href="https://arxiv.org/abs/2505.22067">Paper ↗</a><a href="https://xinyuxia97.github.io/SERA/">Project ↗</a><a href="https://github.com/XinyuXia97/SERA">Code ↗</a></div>
   </div>
 </div>
 
@@ -59,7 +57,7 @@ My research interests include **autonomous driving, information retrieval, and m
 
 **Xinyu Xia**, Lei Zhu, Xiushan Nie, Guohua Dong, Huaxiang Zhang
 
-[Paper](https://www.jcad.cn/article/doi/10.3724/SP.J.1089.2023-00248) · [Code](https://github.com/XinyuXia97/CPCMR)
+<div class="paper-links"><a href="https://www.jcad.cn/article/doi/10.3724/SP.J.1089.2023-00248">Paper ↗</a><a href="https://github.com/XinyuXia97/CPCMR">Code ↗</a></div>
   </div>
 </div>
 
@@ -70,7 +68,7 @@ My research interests include **autonomous driving, information retrieval, and m
 
 **Xinyu Xia**, Guohua Dong, Fengling Li, Lei Zhu, Xiaomin Ying
 
-[Paper](https://www.sciencedirect.com/science/article/pii/S1566253523002841) · [Project](https://xinyuxia97.github.io/UCMFH/) · [Code](https://github.com/XinyuXia97/UCMFH)
+<div class="paper-links"><a href="https://www.sciencedirect.com/science/article/pii/S1566253523002841">Paper ↗</a><a href="https://xinyuxia97.github.io/UCMFH/">Project ↗</a><a href="https://github.com/XinyuXia97/UCMFH">Code ↗</a></div>
   </div>
 </div>
 

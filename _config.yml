@@ -22,41 +22,19 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Xinyu Xia"
+  native_name      : "夏鑫雨"
   avatar           : "/images/you.webp"
-  bio              : "Ph.D. Candidate at the School of Artificial Intelligence, Jilin University"
+  bio              : "Ph.D. Candidate · School of Artificial Intelligence"
   location         : "Beijing, China"
-  employer         :
-  pubmed           : 
+  interests:
+    - Autonomous Driving
+    - Information Retrieval
+    - Multimodal Learning
   googlescholar    : "https://scholar.google.com/citations?user=9Y6NdJAAAAAJ"
   email            : "xiaxinyu97@gmail.com"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "XinyuXia97" # e.g., "github username"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  github           : "XinyuXia97"
   dblp             : "https://dblp.org/pid/283/7234-2.html"
-  orcid            : "https://orcid.org/0009-0005-6064-3993" # e.g., "https://orcid.org/xxxx"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : 
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+  orcid            : "https://orcid.org/0009-0005-6064-3993"
 
 
 # Reading Files
