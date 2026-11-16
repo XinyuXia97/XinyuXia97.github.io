@@ -1,4 +1,36 @@
-<script src="assets/js/main.min.js"></script>
-
+<script src="{{ '/assets/js/main.min.js' | relative_url }}"></script>
+<script>
+  (function () {
+    var nav = document.getElementById('site-nav');
+    var button = nav.querySelector('button');
+    var menu = document.getElementById('more-sections');
+    button.addEventListener('click', function () {
+      button.setAttribute('aria-expanded', String(!menu.classList.contains('hidden')));
+    });
+    nav.addEventListener('click', function (event) {
+      var anchor = event.target.closest('a[href*="#"]');
+      if (!anchor || anchor.pathname !== location.pathname) return;
+      var target = document.getElementById(decodeURIComponent(anchor.hash.slice(1)));
+      if (!target) return;
+      event.preventDefault();
+      event.stopImmediatePropagation();
+      history.pushState(null, '', anchor.pathname + anchor.hash);
+      target.scrollIntoView({
+        behavior: matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth',
+        block: 'start'
+      });
+      menu.classList.add('hidden');
+      button.classList.remove('close');
+      button.setAttribute('aria-expanded', 'false');
+    }, true);
+    document.addEventListener('keydown', function (event) {
+      if (event.key === 'Escape' && !menu.classList.contains('hidden')) {
+        menu.classList.add('hidden');
+        button.classList.remove('close');
+        button.setAttribute('aria-expanded', 'false');
+        button.focus();
+      }
+    });
+  }());
+</script>
 {% include analytics.html %}
-{% include fetch_google_scholar_stats.html %}

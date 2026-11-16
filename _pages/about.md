@@ -1,129 +1,92 @@
 ---
 permalink: /
-title: ""
-excerpt: ""
+title: "Xinyu Xia | Academic Homepage"
+description: "Xinyu Xia researches autonomous driving, information retrieval, and multimodal learning at Jilin University."
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+<h1 id="about-me">Xinyu Xia <span class="name-native">夏鑫雨</span></h1>
 
-<span class='anchor' id='about-me'></span>
+I am a third-year Ph.D. candidate at the School of Artificial Intelligence, Jilin University, advised by Prof. [Xun Gong](https://sites.google.com/view/xungong-jlu-ai/home) and Prof. [Xingjun Ma](http://xingjunma.com/). I received my M.S. degree in June 2024 under the supervision of Prof. [Lei Zhu](https://scholar.google.com.hk/citations?hl=zh-CN&user=gw4ISc4AAAAJ) at the Big Media Computing Laboratory.
 
-<strong>Xinyu Xia(夏鑫雨)</strong> is a third-year Ph.D. candidate in School of Artificial Intelligence, Jilin University, advised by Prof. [Xun Gong](https://sites.google.com/view/xungong-jlu-ai/home) and Prof. [Xingjun Ma](http://xingjunma.com/). He obtained his M.S. degree in June 2024, under the supervision of Prof. [Lei Zhu](https://scholar.google.com.hk/citations?hl=zh-CN&user=gw4ISc4AAAAJ) at Big Media Computing Laboratory.
+My research interests include **autonomous driving, information retrieval, and multimodal learning**.
 
-His research interests include <strong>Autonomous Driving, Information Retrieval and Multimodal Learning</strong>.
- <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
+## News {#news}
 
+- **2025.12** — One paper accepted by IEEE VTM.
+- **2025.07** — One paper accepted by ACM MM 2025.
+- **2024.11** — One paper accepted by the Journal of Computer-Aided Design &amp; Computer Graphics.
+- **2023.12** — One paper accepted by Information Fusion.
 
-# 🔥 News
-- *2025.12*: &nbsp;🎉🎉 One paper is accepted by IEEE VTM! 
-- *2025.07*: &nbsp;🎉🎉 One paper is accepted by ACM MM 2025!
-- *2024.11*: &nbsp;🎉🎉 One paper is accepted by Journal of Computer-Aided Design &amp; Computer Graphics!
-- *2023.12*: &nbsp;🎉🎉 One paper is accepted by Information Fusion!
-<!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+## Selected Publications {#publications}
 
-# 📝 Selected Publications 
-
-
-<!-- 第五篇 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/fd-set.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Failure-Driven Scenario Evolution for Self-Evolving Safety Evaluation in Mixed-Traffic Autonomous Driving]()
+<div class="paper-box">
+  <div class="paper-box-image"><span class="badge">Under Review</span><img src="{{ '/images/fd-set.webp' | relative_url }}" alt="Failure-driven scenario evolution for autonomous driving safety evaluation" width="900" height="450" loading="lazy" decoding="async"></div>
+  <div class="paper-box-text" markdown="1">
+### Failure-Driven Scenario Evolution for Self-Evolving Safety Evaluation in Mixed-Traffic Autonomous Driving
 
 **Xinyu Xia**, Zifei Nie, Xingjun Ma, Ting Qu, Yunfeng Hu, Hong Chen, Xun Gong
-
-[![paper](https://img.shields.io/badge/Paper-d.svg)](https://arxiv.org/abs/2505.22067) [![homepage](https://img.shields.io/badge/Homepage-ff69b4.svg)](https://xinyuxia97.github.io/SERA/) 
-[![](https://img.shields.io/github/stars/XinyuXia97/SERA?style=social&label=Code+Stars)](https://github.com/XinyuXia97/SERA) 
-
-</div>
+  </div>
 </div>
 
-
-<!-- 第四篇 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/beyond.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Beyond Scenario Similarity: Learning Behavior-Aware Representations for Large-Scale Autonomous Driving Scenario Retrieval]()
+<div class="paper-box">
+  <div class="paper-box-image"><span class="badge">Under Review</span><img src="{{ '/images/beyond.webp' | relative_url }}" alt="Behavior-aware representations for autonomous driving scenario retrieval" width="900" height="234" loading="lazy" decoding="async"></div>
+  <div class="paper-box-text" markdown="1">
+### Beyond Scenario Similarity: Learning Behavior-Aware Representations for Large-Scale Autonomous Driving Scenario Retrieval
 
 **Xinyu Xia**, Yiqi Wang, Ting Qu, Yunfeng Hu, Hong Chen, Xun Gong
-
-[![paper](https://img.shields.io/badge/Paper-d.svg)](https://arxiv.org/abs/2505.22067) [![homepage](https://img.shields.io/badge/Homepage-ff69b4.svg)](https://xinyuxia97.github.io/SERA/) 
-[![](https://img.shields.io/github/stars/XinyuXia97/SERA?style=social&label=Code+Stars)](https://github.com/XinyuXia97/SERA) 
-
-</div>
+  </div>
 </div>
 
-<!-- 第三篇 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src='images/sera.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[From Failures to Fixes: LLM-Driven Scenario Repair for Self-Evolving Autonomous Driving](https://arxiv.org/abs/2505.22067)
+<div class="paper-box">
+  <div class="paper-box-image"><span class="badge">ACM MM 2025</span><img src="{{ '/images/sera.webp' | relative_url }}" alt="Overview of the SERA autonomous driving scenario repair method" width="802" height="348" loading="lazy" decoding="async"></div>
+  <div class="paper-box-text" markdown="1">
+### [From Failures to Fixes: LLM-Driven Scenario Repair for Self-Evolving Autonomous Driving](https://arxiv.org/abs/2505.22067)
 
 **Xinyu Xia**, Xingjun Ma, Yunfeng Hu, Ting Qu, Hong Chen, Xun Gong
 
-[![paper](https://img.shields.io/badge/Paper-d.svg)](https://arxiv.org/abs/2505.22067) [![homepage](https://img.shields.io/badge/Homepage-ff69b4.svg)](https://xinyuxia97.github.io/SERA/) 
-[![](https://img.shields.io/github/stars/XinyuXia97/SERA?style=social&label=Code+Stars)](https://github.com/XinyuXia97/SERA) 
-
-</div>
+[Paper](https://arxiv.org/abs/2505.22067) · [Project](https://xinyuxia97.github.io/SERA/) · [Code](https://github.com/XinyuXia97/SERA)
+  </div>
 </div>
 
-<!-- 第一篇 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Information Fusion 2023</div><img src='images/UCMH.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[When CLIP meets cross-modal hashing retrieval: A new strong baseline](https://www.sciencedirect.com/science/article/pii/S1566253523002841)
-
-**Xinyu Xia**, Guohua Dong, Fengling Li, Lei Zhu, Xiaomin Ying
-
-[![paper](https://img.shields.io/badge/Paper-d.svg)](https://www.sciencedirect.com/science/article/pii/S1566253523002841) [![homepage](https://img.shields.io/badge/Homepage-ff69b4.svg)](https://xinyuxia97.github.io/UCMFH/) [![](https://img.shields.io/github/stars/XinyuXia97/UCMFH?style=social&label=Code+Stars)](https://github.com/XinyuXia97/UCMFH) ![](https://img.shields.io/static/v1?label=IF&message=18.6&color=blue)
-
-</div>
-</div>
-<!-- 第二篇 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Jcad 2024</div><img src='images/Prototypical-cro-att.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Typical Concept Driven Modality Missing Deep Cross-Modal Retrieval](https://www.jcad.cn/article/doi/10.3724/SP.J.1089.2023-00248)
+<div class="paper-box">
+  <div class="paper-box-image"><span class="badge">JCAD 2024</span><img src="{{ '/images/Prototypical-cro-att.webp' | relative_url }}" alt="Diagram of typical concept driven cross-modal retrieval" width="900" height="628" loading="lazy" decoding="async"></div>
+  <div class="paper-box-text" markdown="1">
+### [Typical Concept Driven Modality Missing Deep Cross-Modal Retrieval](https://www.jcad.cn/article/doi/10.3724/SP.J.1089.2023-00248)
 
 **Xinyu Xia**, Lei Zhu, Xiushan Nie, Guohua Dong, Huaxiang Zhang
 
-[![paper](https://img.shields.io/badge/Paper-d.svg)](https://www.jcad.cn/article/doi/10.3724/SP.J.1089.2023-00248)
-[![](https://img.shields.io/github/stars/XinyuXia97/CPCMR?style=social&label=Code+Stars)](https://github.com/XinyuXia97/CPCMR) 
-
-</div>
+[Paper](https://www.jcad.cn/article/doi/10.3724/SP.J.1089.2023-00248) · [Code](https://github.com/XinyuXia97/CPCMR)
+  </div>
 </div>
 
+<div class="paper-box">
+  <div class="paper-box-image"><span class="badge">Information Fusion 2023</span><img src="{{ '/images/UCMH.webp' | relative_url }}" alt="Overview of the CLIP-based cross-modal hashing retrieval method" width="900" height="448" loading="lazy" decoding="async"></div>
+  <div class="paper-box-text" markdown="1">
+### [When CLIP meets cross-modal hashing retrieval: A new strong baseline](https://www.sciencedirect.com/science/article/pii/S1566253523002841)
 
+**Xinyu Xia**, Guohua Dong, Fengling Li, Lei Zhu, Xiaomin Ying
 
-<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
+[Paper](https://www.sciencedirect.com/science/article/pii/S1566253523002841) · [Project](https://xinyuxia97.github.io/UCMFH/) · [Code](https://github.com/XinyuXia97/UCMFH)
+  </div>
+</div>
 
-# 🎖 Honors and Awards
-<!-- - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-- *2023.07* Participated in <strong>THE ALGONAUTS PROJECT 2023</strong> organized by MIT and achieved placement on the Leaderboard.
+## Honors and Awards {#honors-and-awards}
 
-# 📖 Educations
-<!-- - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-- *2024.08 - now*, Ph.D. in School of Artificial Intelligence, Jilin University.
-- *2021.09 - 2024.06*, M.S. in School of information Science and Engineering, Shandong Normal University.
+- **2023.07** — Participated in THE ALGONAUTS PROJECT 2023 organized by MIT and achieved placement on the leaderboard.
 
-<!-- # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
+## Education {#education}
 
-# 💻 Internships
-- *2022.10 - 2024.06*,  Beijing Institute of Basic Medical Sciences
-  
-# 👏 Services
-- **Program Committee Member**  
-  AAAI(2024-2027), ICLR(2025), ACM MM(2025-2026), MM Asia(2025-2026)
-  
+- **2024.08 – present** — Ph.D., School of Artificial Intelligence, Jilin University.
+- **2021.09 – 2024.06** — M.S., School of Information Science and Engineering, Shandong Normal University.
+
+## Internships {#internships}
+
+- **2022.10 – 2024.06** — Beijing Institute of Basic Medical Sciences.
+
+## Service {#services}
+
+- **Program Committee Member** — AAAI (2024–2027), ICLR (2025), ACM MM (2025–2026), MM Asia (2025–2026).
