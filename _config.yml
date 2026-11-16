@@ -7,9 +7,9 @@
 
 # Site Settings
 title                    : "Xinyu Xia"
-description              : "Research in autonomous driving, information retrieval, and multimodal learning at Jilin University."
-url                      : "https://xinyuxia97.github.io"
+description              : " Focusing on Multimodal Learning and Autonomous Driving"
 repository               : "XinyuXia97/XinyuXia97.github.io"
+google_scholar_stats_use_cdn : true
 
 # google analytics
 google_analytics_id      :  G-PPGVW04FDZ # get google_analytics_id from https://analytics.google.com/analytics/
@@ -22,19 +22,41 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Xinyu Xia"
-  native_name      : "夏鑫雨"
-  avatar           : "/images/you.webp"
-  bio              : "Ph.D. Candidate · School of Artificial Intelligence"
+  avatar           : "images/you.png"
+  bio              : "Ph.D. Candidate at the School of Artificial Intelligence, Jilin University"
   location         : "Beijing, China"
-  interests:
-    - Autonomous Driving
-    - Information Retrieval
-    - Multimodal Learning
+  employer         :
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=9Y6NdJAAAAAJ"
   email            : "xiaxinyu97@gmail.com"
-  github           : "XinyuXia97"
+  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : "XinyuXia97" # e.g., "github username"
+  google_plus      :
+  keybase          :
+  instagram        :
+  impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  lastfm           :
+  linkedin         : # e.g., "linkedin username"
   dblp             : "https://dblp.org/pid/283/7234-2.html"
-  orcid            : "https://orcid.org/0009-0005-6064-3993"
+  orcid            : "https://orcid.org/0009-0005-6064-3993" # e.g., "https://orcid.org/xxxx"
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  steam            :
+  tumblr           :
+  twitter          : 
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+  wikipedia        :
 
 
 # Reading Files

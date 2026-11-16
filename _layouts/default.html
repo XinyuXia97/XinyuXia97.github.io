@@ -12,20 +12,20 @@ layout: compress
   <body>
 
     {% include browser-upgrade.html %}
-    <a class="skip-link" href="#main">Skip to content</a>
     {% include masthead.html %}
 
-    <main id="main">
-      {% if page.author_profile %}{% include author-profile.html %}{% endif %}
-
-      <article class="page">
+    <div id="main" role="main">
+      {% include sidebar.html %}
+    
+      <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
+        {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
         <div class="page__inner-wrap">
-          <div class="page__content">
+          <section class="page__content" itemprop="text">
             {{ content }}
-          </div>
+          </section>
         </div>
       </article>
-    </main>
+    </div>
 
     {% include scripts.html %}
 
